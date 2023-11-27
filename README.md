@@ -8,6 +8,5 @@ yarn install
 node index.js
 ```
 
-
 成功后图片
-![image-20231127221300444](../../../../Library/Application Support/typora-user-images/image-20231127221300444.png)
+![image-20231127221821837](./assets/image-20231127221821837.png)
